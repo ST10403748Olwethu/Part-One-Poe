@@ -1,0 +1,30 @@
+C:\Users\lab_services_student\source\repos\Part One Poe\Part One Poe\bin\Debug\net6.0\Part One Poe.exe
+C:\Users\lab_services_student\source\repos\Part One Poe\Part One Poe\bin\Debug\net6.0\Part One Poe.deps.json
+C:\Users\lab_services_student\source\repos\Part One Poe\Part One Poe\bin\Debug\net6.0\Part One Poe.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\Part One Poe\Part One Poe\bin\Debug\net6.0\Part One Poe.dll
+C:\Users\lab_services_student\source\repos\Part One Poe\Part One Poe\bin\Debug\net6.0\Part One Poe.pdb
+C:\Users\lab_services_student\source\repos\Part One Poe\Part One Poe\obj\Debug\net6.0\Part One Poe.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\Part One Poe\Part One Poe\obj\Debug\net6.0\Part One Poe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\Part One Poe\Part One Poe\obj\Debug\net6.0\Part One Poe.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\Part One Poe\Part One Poe\obj\Debug\net6.0\Part One Poe.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\Part One Poe\Part One Poe\obj\Debug\net6.0\Part One Poe.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\Part One Poe\Part One Poe\obj\Debug\net6.0\Part One Poe.dll
+C:\Users\lab_services_student\source\repos\Part One Poe\Part One Poe\obj\Debug\net6.0\refint\Part One Poe.dll
+C:\Users\lab_services_student\source\repos\Part One Poe\Part One Poe\obj\Debug\net6.0\Part One Poe.pdb
+C:\Users\lab_services_student\source\repos\Part One Poe\Part One Poe\obj\Debug\net6.0\Part One Poe.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\Part One Poe\Part One Poe\obj\Debug\net6.0\ref\Part One Poe.dll
+C:\Users\RC_Student_lab\Desktop\Part One Poe ST10403748 Olwethu Blessing Biyase\Part One Poe\bin\Debug\net6.0\Part One Poe.exe
+C:\Users\RC_Student_lab\Desktop\Part One Poe ST10403748 Olwethu Blessing Biyase\Part One Poe\bin\Debug\net6.0\Part One Poe.deps.json
+C:\Users\RC_Student_lab\Desktop\Part One Poe ST10403748 Olwethu Blessing Biyase\Part One Poe\bin\Debug\net6.0\Part One Poe.runtimeconfig.json
+C:\Users\RC_Student_lab\Desktop\Part One Poe ST10403748 Olwethu Blessing Biyase\Part One Poe\bin\Debug\net6.0\Part One Poe.dll
+C:\Users\RC_Student_lab\Desktop\Part One Poe ST10403748 Olwethu Blessing Biyase\Part One Poe\bin\Debug\net6.0\Part One Poe.pdb
+C:\Users\RC_Student_lab\Desktop\Part One Poe ST10403748 Olwethu Blessing Biyase\Part One Poe\obj\Debug\net6.0\Part One Poe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\Desktop\Part One Poe ST10403748 Olwethu Blessing Biyase\Part One Poe\obj\Debug\net6.0\Part One Poe.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\Desktop\Part One Poe ST10403748 Olwethu Blessing Biyase\Part One Poe\obj\Debug\net6.0\Part One Poe.AssemblyInfo.cs
+C:\Users\RC_Student_lab\Desktop\Part One Poe ST10403748 Olwethu Blessing Biyase\Part One Poe\obj\Debug\net6.0\Part One Poe.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\Desktop\Part One Poe ST10403748 Olwethu Blessing Biyase\Part One Poe\obj\Debug\net6.0\Part One Poe.sourcelink.json
+C:\Users\RC_Student_lab\Desktop\Part One Poe ST10403748 Olwethu Blessing Biyase\Part One Poe\obj\Debug\net6.0\Part One Poe.dll
+C:\Users\RC_Student_lab\Desktop\Part One Poe ST10403748 Olwethu Blessing Biyase\Part One Poe\obj\Debug\net6.0\refint\Part One Poe.dll
+C:\Users\RC_Student_lab\Desktop\Part One Poe ST10403748 Olwethu Blessing Biyase\Part One Poe\obj\Debug\net6.0\Part One Poe.pdb
+C:\Users\RC_Student_lab\Desktop\Part One Poe ST10403748 Olwethu Blessing Biyase\Part One Poe\obj\Debug\net6.0\Part One Poe.genruntimeconfig.cache
+C:\Users\RC_Student_lab\Desktop\Part One Poe ST10403748 Olwethu Blessing Biyase\Part One Poe\obj\Debug\net6.0\ref\Part One Poe.dll
